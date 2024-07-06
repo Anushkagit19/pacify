@@ -10,9 +10,9 @@ Developed Pacify Music Player, a streamlined music player application designed t
 
 ## Screenshots
 
-![ss0](cypherAI-main\Screenshots\chat.png)
-![ss1](cypherAI-main\Screenshots\chat2.png)
-![ss2](cypherAI-main\Screenshots\home.png)
+![ss0](screenshots/s1.png)
+![ss1](screenshots/s2.png)
+![ss2](screenshots/s3.png)
 
 
 ## Features
