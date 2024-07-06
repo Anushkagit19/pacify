@@ -17,7 +17,7 @@ Developed Pacify Music Player, a streamlined music player application designed t
 
 ## Features
 
-- Designed a sleek and modern interface for easy navigation and user engagement.
+- Designed a modern and responsive sleek interface for easy navigation and user engagement.
 
 - Efficiently handles and plays multiple songs in sequence.
 
